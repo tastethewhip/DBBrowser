@@ -1,1 +1,1 @@
-sqlite browser using very little resources. 
+sqlite browser made with python/tkinter using very little resources. 
